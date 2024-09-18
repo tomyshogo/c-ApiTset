@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "z3hB+XYEYke/X36Qa/P01f5KiVIpgDBII5dyprpvpg1HIBNyqSHw8RJ9RH0yLW7gNk2aFPp+8yW98H9eJRdlXQ==",
+  "success": true,
+  "projectFilePath": "/Users/tomyshogo/Documents/dev/C#_api/test_api/test_api/test_api.csproj",
+  "expectedPackageFiles": [
+    "/Users/tomyshogo/.nuget/packages/microsoft.aspnetcore.openapi/7.0.15/microsoft.aspnetcore.openapi.7.0.15.nupkg.sha512",
+    "/Users/tomyshogo/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/tomyshogo/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/Users/tomyshogo/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/Users/tomyshogo/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/Users/tomyshogo/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/Users/tomyshogo/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
